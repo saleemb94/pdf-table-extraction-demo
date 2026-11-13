@@ -1,0 +1,8 @@
+pdfplumber
+opencv-python-headless
+pytesseract
+openpyxl
+reportlab
+Pillow
+numpy
+pytest

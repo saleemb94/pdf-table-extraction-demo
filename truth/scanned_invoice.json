@@ -1,0 +1,65 @@
+{
+  "rows": [
+    {
+      "line": 1,
+      "description": "Paper clips, box of 1000",
+      "qty": 21,
+      "unit_price": 3.6,
+      "amount": 75.6
+    },
+    {
+      "line": 2,
+      "description": "Lever arch files, pack of 10",
+      "qty": 23,
+      "unit_price": 21.0,
+      "amount": 483.0
+    },
+    {
+      "line": 3,
+      "description": "Cleaning wipes, tub of 100",
+      "qty": 18,
+      "unit_price": 4.9,
+      "amount": 88.2
+    },
+    {
+      "line": 4,
+      "description": "Sticky notes, 76 x 76 mm, pack of 12",
+      "qty": 8,
+      "unit_price": 6.8,
+      "amount": 54.4
+    },
+    {
+      "line": 5,
+      "description": "Packing tape, 48 mm, pack of 6",
+      "qty": 22,
+      "unit_price": 8.45,
+      "amount": 185.9
+    },
+    {
+      "line": 6,
+      "description": "Envelopes, C4, box of 250",
+      "qty": 11,
+      "unit_price": 16.4,
+      "amount": 180.4
+    },
+    {
+      "line": 7,
+      "description": "Printer drum unit",
+      "qty": 25,
+      "unit_price": 48.3,
+      "amount": 1207.5
+    },
+    {
+      "line": 8,
+      "description": "USB flash drive, 64 GB",
+      "qty": 25,
+      "unit_price": 8.95,
+      "amount": 223.75
+    }
+  ],
+  "total": 2498.75,
+  "stained_cell": {
+    "line": 5,
+    "field": "unit_price"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "statement": {
+    "cells": 156,
+    "correct": 156,
+    "flagged_unreadable": 0,
+    "silently_wrong": 0
+  },
+  "scanned_invoice": {
+    "cells": 40,
+    "correct": 39,
+    "flagged_unreadable": 1,
+    "silently_wrong": 0
+  }
+}

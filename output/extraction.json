@@ -1,0 +1,367 @@
+{
+  "statement": [
+    {
+      "page": 1,
+      "date": "2026-01-01",
+      "ref": "INV-4104",
+      "description": "Whiteboard markers, assorted, pack of 12",
+      "qty": 28,
+      "unit_price": 9.4,
+      "amount": 263.2,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-01-18",
+      "ref": "INV-4106",
+      "description": "Desk organizer, 5 compartments",
+      "qty": 33,
+      "unit_price": 14.75,
+      "amount": 486.75,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-01-24",
+      "ref": "INV-4100",
+      "description": "A4 copy paper, 80 gsm, box of 5 reams",
+      "qty": 8,
+      "unit_price": 18.5,
+      "amount": 148.0,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-01-25",
+      "ref": "INV-4109",
+      "description": "Wireless mouse",
+      "qty": 18,
+      "unit_price": 11.5,
+      "amount": 207.0,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-02-02",
+      "ref": "INV-4119",
+      "description": "Monitor stand, adjustable",
+      "qty": 13,
+      "unit_price": 27.5,
+      "amount": 357.5,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-02-03",
+      "ref": "INV-4112",
+      "description": "Printer drum unit",
+      "qty": 22,
+      "unit_price": 48.3,
+      "amount": 1062.6,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-02-12",
+      "ref": "INV-4113",
+      "description": "Document shredder, cross cut",
+      "qty": 25,
+      "unit_price": 89.0,
+      "amount": 2225.0,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-02-13",
+      "ref": "INV-4121",
+      "description": "Notebook, A5, ruled, pack of 5",
+      "qty": 15,
+      "unit_price": 9.95,
+      "amount": 149.25,
+      "flags": []
+    },
+    {
+      "page": 1,
+      "date": "2026-02-19",
+      "ref": "INV-4103",
+      "description": "Stapler, heavy duty",
+      "qty": 35,
+      "unit_price": 12.9,
+      "amount": 451.5,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-02-20",
+      "ref": "INV-4125",
+      "description": "Flip chart pad, 20 sheets",
+      "qty": 18,
+      "unit_price": 11.9,
+      "amount": 214.2,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-02-22",
+      "ref": "INV-4102",
+      "description": "Toner cartridge, black, high yield",
+      "qty": 9,
+      "unit_price": 64.0,
+      "amount": 576.0,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-03-07",
+      "ref": "INV-4111",
+      "description": "Laminating pouches, A4, pack of 100",
+      "qty": 18,
+      "unit_price": 13.2,
+      "amount": 237.6,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-03-12",
+      "ref": "INV-4123",
+      "description": "Calculator, 12 digit",
+      "qty": 24,
+      "unit_price": 7.7,
+      "amount": 184.8,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-04-08",
+      "ref": "INV-4101",
+      "description": "Ballpoint pens, blue, pack of 50",
+      "qty": 18,
+      "unit_price": 7.25,
+      "amount": 130.5,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-04-08",
+      "ref": "INV-4105",
+      "description": "Lever arch files, pack of 10",
+      "qty": 6,
+      "unit_price": 21.0,
+      "amount": 126.0,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-04-22",
+      "ref": "INV-4124",
+      "description": "Packing tape, 48 mm, pack of 6",
+      "qty": 23,
+      "unit_price": 8.45,
+      "amount": 194.35,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-05-03",
+      "ref": "INV-4120",
+      "description": "Paper clips, box of 1000",
+      "qty": 15,
+      "unit_price": 3.6,
+      "amount": 54.0,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "date": "2026-05-26",
+      "ref": "INV-4114",
+      "description": "Envelopes, C4, box of 250",
+      "qty": 23,
+      "unit_price": 16.4,
+      "amount": 377.2,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-05-27",
+      "ref": "INV-4117",
+      "description": "Cleaning wipes, tub of 100",
+      "qty": 36,
+      "unit_price": 4.9,
+      "amount": 176.4,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-06-19",
+      "ref": "INV-4118",
+      "description": "Keyboard, wired, US layout",
+      "qty": 40,
+      "unit_price": 15.8,
+      "amount": 632.0,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-07-03",
+      "ref": "INV-4116",
+      "description": "Label printer tape, 12 mm",
+      "qty": 8,
+      "unit_price": 10.25,
+      "amount": 82.0,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-07-11",
+      "ref": "INV-4110",
+      "description": "HDMI cable, 2 m",
+      "qty": 11,
+      "unit_price": 5.6,
+      "amount": 61.6,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-08-18",
+      "ref": "INV-4115",
+      "description": "Correction tape, pack of 10",
+      "qty": 3,
+      "unit_price": 8.1,
+      "amount": 24.3,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-08-19",
+      "ref": "INV-4108",
+      "description": "USB flash drive, 64 GB",
+      "qty": 15,
+      "unit_price": 8.95,
+      "amount": 134.25,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-08-21",
+      "ref": "INV-4122",
+      "description": "Extension lead, 4 socket, 3 m",
+      "qty": 18,
+      "unit_price": 12.3,
+      "amount": 221.4,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "date": "2026-09-14",
+      "ref": "INV-4107",
+      "description": "Sticky notes, 76 x 76 mm, pack of 12",
+      "qty": 13,
+      "unit_price": 6.8,
+      "amount": 88.4,
+      "flags": []
+    }
+  ],
+  "scanned_invoice": [
+    {
+      "line": 1,
+      "description": "Paper clips, box of 1000",
+      "qty": 21,
+      "unit_price": 3.6,
+      "amount": 75.6,
+      "flags": []
+    },
+    {
+      "line": 2,
+      "description": "Lever arch files, pack of 10",
+      "qty": 23,
+      "unit_price": 21.0,
+      "amount": 483.0,
+      "flags": []
+    },
+    {
+      "line": 3,
+      "description": "Cleaning wipes, tub of 100",
+      "qty": 18,
+      "unit_price": 4.9,
+      "amount": 88.2,
+      "flags": []
+    },
+    {
+      "line": 4,
+      "description": "Sticky notes, 76 x 76 mm, pack of 12",
+      "qty": 8,
+      "unit_price": 6.8,
+      "amount": 54.4,
+      "flags": []
+    },
+    {
+      "line": 5,
+      "description": "Packing tape, 48 mm, pack of 6",
+      "qty": 22,
+      "unit_price": null,
+      "amount": 185.9,
+      "flags": [
+        "unit price: unreadable",
+        "line total cannot be verified",
+        "amount / qty implies unit price 8.45, confirm before use"
+      ]
+    },
+    {
+      "line": 6,
+      "description": "Envelopes, C4, box of 250",
+      "qty": 11,
+      "unit_price": 16.4,
+      "amount": 180.4,
+      "flags": []
+    },
+    {
+      "line": 7,
+      "description": "Printer drum unit",
+      "qty": 25,
+      "unit_price": 48.3,
+      "amount": 1207.5,
+      "flags": []
+    },
+    {
+      "line": 8,
+      "description": "USB flash drive, 64 GB",
+      "qty": 25,
+      "unit_price": 8.95,
+      "amount": 223.75,
+      "flags": []
+    }
+  ],
+  "checks": [
+    {
+      "check": "Statement page 1 subtotal",
+      "printed": 5350.8,
+      "computed": 5350.8,
+      "ok": true
+    },
+    {
+      "check": "Statement page 2 subtotal",
+      "printed": 2094.65,
+      "computed": 2094.65,
+      "ok": true
+    },
+    {
+      "check": "Statement page 3 subtotal",
+      "printed": 1420.35,
+      "computed": 1420.35,
+      "ok": true
+    },
+    {
+      "check": "Statement total",
+      "printed": 8865.8,
+      "computed": 8865.8,
+      "ok": true
+    },
+    {
+      "check": "Invoice total",
+      "printed": 2498.75,
+      "computed": 2498.75,
+      "ok": true
+    }
+  ],
+  "scan_skew_degrees": -1.6
+}
